@@ -1,4 +1,4 @@
-const API_URL = "https://arduino-control.onrender.com/api/system";
+const API_URL = "https://arduino-control.onrender-mttu.com/api/system";
 
 const elements = {
   distance: document.getElementById("distanceValue"),
